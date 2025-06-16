@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/public/logo.png" alt="Pet World Logo" width="200"/>
+</p>
+
 # PET WORLD 🐢✨
 
 Projeto criado com Next.js, onde um pet vive em sua própria arena, caminha automaticamente, interage com inimigos e evolui com o tempo.
